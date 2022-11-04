@@ -1,0 +1,7 @@
+[
+    {"num": 1,"descripcion": "Cargador de Celular", "precio": 10000, "url": "../imagenes/cargador.jpg"},
+    {"num": 2,"descripcion": "Audifono", "precio": 15000, "url": "../imagenes/audifono.jpg"},
+    {"num": 3,"descripcion": "SmartWatch", "precio": 5000, "url": "../imagenes/smartwatch.jpg"},
+    {"num": 4,"descripcion": "Mouse", "precio": 7000, "url": "../imagenes/mouse.jpg"},
+    {"num": 5,"descripcion": "Teclado", "precio": 11000, "url": "../imagenes/teclado.jpg"}
+]
